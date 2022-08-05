@@ -15,4 +15,12 @@
 
 
 
+
+  - name: i want to isnatll git 
+    apt:
+     name: git
+     state: present   
+
+
+
      
